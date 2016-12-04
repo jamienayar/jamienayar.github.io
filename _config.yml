@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Riverbank
+email: jamie@riverbankdesign.net
+description: Even the best ideas mean nothing if no one understands them. We believe the communication of ideas is just as important as the ideas themselves. At Riverbank we provide effective science communication. We offer something that is unique, applying our passions for design and animation to engineering, ecology and sustainability. Our small team of web, motion and graphic designers create tailored packages that are compelling, engaging and built to last. Our design practice is built around project research, asking the right questions and listening for the best solutions. We offer a technically tailored service with a team comprised of engineering and ecology graduates, giving us a unique understanding when communicating scientific projects.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: riverbankdesign
+github_username:  jamienayar
+
+sass:
+    sass_dir: _sass
+#
+# Build settings
+markdown: kramdown
+

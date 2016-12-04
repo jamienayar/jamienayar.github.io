@@ -1,0 +1,30 @@
+//Universal Variables//
+
+//Height centering variables//
+
+.vcenter {
+    display: -webkit-flex;
+    -webkit-flex-direction: column;
+    -webkit-justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.hcenter {
+    display: -webkit-flex;
+    -webkit-flex-direction: row;
+    -webkit-align-items: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.fheight {
+    height: 100vh;
+}
+
+* {
+    border: 2px solid red;
+}
